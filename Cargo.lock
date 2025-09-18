@@ -21,7 +21,6 @@ dependencies = [
  "tracing",
  "tracing-subscriber",
  "uefi",
- "uefi-raw",
 ]
 
 [[package]]
